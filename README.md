@@ -1,6 +1,6 @@
-# NASA Rover
+# Mars Rover
 
-Take control of the NASA Mars Rover using this mission control interface. Simply input L, R or F to move/rotate the Rover left, right or forwards.
+Take control of the NASA's Mars Rover using this mission control interface. Simply input L, R or F to move/rotate the Rover left, right or forwards.
 
 Use the compass to figure out which direction the Mars Rover is heading.
 
