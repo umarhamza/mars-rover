@@ -10,4 +10,4 @@ Roam the Martian land and make exciting new discoveries.
 
 ## Preview
 
-![Screenshow Preview](https://github.com/umarhamza/nasa-rover/blob/main/screenshot.png)
+![Screenshow Preview](https://raw.githubusercontent.com/umarhamza/mars-rover/main/screenshot.png)
