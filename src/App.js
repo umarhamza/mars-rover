@@ -221,8 +221,8 @@ function App() {
           disabled={inputVal !== ''}
           onChange={handleChange}
         />
-        <div>Left: {coord.left}</div>
-        <div>Right: {coord.top}</div>
+        <div>X: {coord.left}</div>
+        <div>Y: {coord.top}</div>
         <div>Rotation: {rotation}</div>
       </Form>
     </Container>
