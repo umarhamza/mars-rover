@@ -209,7 +209,7 @@ function App() {
       </Grid>
       <Form>
         <FormHeader>
-          <FormTitle>Coordinates:</FormTitle>
+          <FormTitle>Actual Coordinates:</FormTitle>
           <DirectionEntered>
             {message !== '' ? message : 'Enter L, R, F or B'}
           </DirectionEntered>
