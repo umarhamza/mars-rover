@@ -211,7 +211,7 @@ function App() {
         <FormHeader>
           <FormTitle>Coordinates:</FormTitle>
           <DirectionEntered>
-            {message !== '' ? message : 'Type L, R or F'}
+            {message !== '' ? message : 'Enter L, R, F or B'}
           </DirectionEntered>
         </FormHeader>
         <Input
@@ -220,6 +220,7 @@ function App() {
           value={inputVal}
           disabled={inputVal !== ''}
           onChange={handleChange}
+          placeholder='Enter L, R, F or B'
         />
         <div>X: {coord.left}</div>
         <div>Y: {coord.top}</div>
