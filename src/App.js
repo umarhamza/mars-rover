@@ -211,7 +211,7 @@ function App() {
         <FormHeader>
           <FormTitle>Coordinates:</FormTitle>
           <DirectionEntered>
-            {message !== '' ? message : 'Enter L, R or F'}
+            {message !== '' ? message : 'Type L, R or F'}
           </DirectionEntered>
         </FormHeader>
         <Input
